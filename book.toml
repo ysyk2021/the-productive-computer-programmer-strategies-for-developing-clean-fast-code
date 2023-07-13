@@ -1,0 +1,6 @@
+[book]
+authors = ["ysykzheng"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Productive Computer Programmer: Strategies for Developing Clean, Fast Code"
