@@ -10,7 +10,6 @@ Through practical tips, real-world examples, and case studies, this book aims to
 
 With a focus on ongoing learning and growth, this book encourages programmers to embrace a growth mindset and continually seek out new challenges and opportunities for development. By applying the strategies and techniques outlined in this book, programmers can become more productive, efficient, and successful in their careers.
 
-
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
