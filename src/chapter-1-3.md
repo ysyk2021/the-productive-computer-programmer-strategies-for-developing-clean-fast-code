@@ -1,5 +1,3 @@
-The Role of the Productive Computer Programmer
-=======================================================
 
 Computer programmers play a vital role in software development by translating ideas into functional code. In this chapter, we explore the importance and responsibilities of the productive computer programmer. We delve into the skills, mindset, and practices that enable programmers to excel in their role, develop clean and fast code, and contribute to the success of software projects.
 

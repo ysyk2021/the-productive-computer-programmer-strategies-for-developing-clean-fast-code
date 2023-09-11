@@ -1,5 +1,3 @@
-Chapter 8: Applying Productivity to Personal and Professional Growth
-====================================================================
 
 Applying productivity to personal and professional growth is essential for becoming a successful computer programmer. In this chapter, we'll explore strategies for using productivity to achieve personal and professional development in programming.
 

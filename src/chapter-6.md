@@ -1,5 +1,3 @@
-Chapter 5: Embracing Efficient Coding Practices
-===============================================
 
 In order to become a productive computer programmer, it is essential to embrace efficient coding practices. This chapter will explore the impact of efficient coding practices on productivity, techniques for embracing those practices, and building optimization and automation skills.
 

@@ -1,5 +1,3 @@
-Introduction
-============
 
 Computer programming is a complex and rapidly evolving field that requires a high level of productivity to succeed. In this book, we'll explore strategies for developing clean, fast code that meets the needs of your organization.
 

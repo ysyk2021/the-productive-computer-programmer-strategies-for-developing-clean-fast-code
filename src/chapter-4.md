@@ -1,5 +1,3 @@
-Chapter 3: Building Self-Awareness
-==================================
 
 In this chapter, we will discuss the importance of building self-awareness for productivity and techniques for doing so. By becoming more self-aware, programmers can identify their strengths and weaknesses, build discipline and focus, and work more efficiently.
 
@@ -27,5 +25,4 @@ Building discipline and focus is essential for productivity. One technique for b
 Another useful technique is to eliminate distractions. Programmers should turn off notifications on their devices, close unnecessary tabs or applications, and create a distraction-free environment to help them stay focused on their work.
 
 In conclusion, building self-awareness is essential for programmers who want to achieve effective productivity. By using techniques such as journaling and mindfulness, identifying strengths and weaknesses, and building discipline and focus, programmers can work more efficiently and effectively.
-
 

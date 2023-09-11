@@ -1,5 +1,3 @@
-Chapter 2: Developing a Growth Mindset for Productivity
-=======================================================
 
 In order to achieve maximum productivity as a computer programmer, it's important to develop a growth mindset. In this chapter, we'll explore the importance of a growth mindset in productivity, techniques for developing a growth mindset, and how to overcome obstacles to effective productivity.
 

@@ -1,5 +1,3 @@
-Chapter 1: Understanding Productivity in Computer Programming
-=============================================================
 
 In order to be successful as a computer programmer, it's important to understand productivity. In this chapter, we'll explore what productivity means in computer programming, types of productive coding practices, and the benefits of effective productivity.
 
